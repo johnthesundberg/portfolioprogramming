@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to John's Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/johnthesundberg/portfolioprogramming/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
