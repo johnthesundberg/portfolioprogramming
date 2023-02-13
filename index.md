@@ -5,7 +5,7 @@
 ### Calculator Project
 OOP graphical calculator using processing
 
-![Calculator]()
+![Calculator](https://github.com/johnthesundberg/portfolioprogramming/blob/gh-pages/images/Calculator.png?raw=true)
 
 [Source Code]()
 
