@@ -16,8 +16,8 @@ OOP space tomato shooter game using processing
 
 [Source Code](https://github.com/johnthesundberg/portfolioprogramming/tree/gh-pages/src/spacegame)
 
-### Space Game Project
-OOP space tomato shooter game using processing
+### Screensaver Project
+OOP pipe walking screensaver using processing
 
 ![ScreenSaver](https://github.com/johnthesundberg/portfolioprogramming/blob/gh-pages/images/PipesScreenSaver.png?raw=true)
 
