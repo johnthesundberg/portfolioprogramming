@@ -9,5 +9,19 @@ OOP graphical calculator using processing
 
 [Source Code](https://github.com/johnthesundberg/portfolioprogramming/tree/gh-pages/src/calc)
 
+### Space Game Project
+OOP space tomato shooter game using processing
+
+![Calculator](https://github.com/johnthesundberg/portfolioprogramming/blob/gh-pages/images/SpaceGame.png?raw=true)
+
+[Source Code](https://github.com/johnthesundberg/portfolioprogramming/tree/gh-pages/src/spacegame)
+
+### Space Game Project
+OOP space tomato shooter game using processing
+
+![Calculator](https://github.com/johnthesundberg/portfolioprogramming/blob/gh-pages/images/Calculator.png?raw=true)
+
+[Source Code](https://github.com/johnthesundberg/portfolioprogramming/tree/gh-pages/src/calc)
+
 ## Programming Semester 2 Projects:
 
