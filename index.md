@@ -25,3 +25,9 @@ OOP pipe walking screensaver using processing
 
 ## Programming Semester 2 Projects:
 
+### Melody Writer
+OOP writes a simple melody with a random selection of notes using python
+![Calculator](https://github.com/johnthesundberg/portfolioprogramming/blob/gh-pages/images/Melody1.png?raw=true)
+![Calculator](https://github.com/johnthesundberg/portfolioprogramming/blob/gh-pages/images/Melody2.png?raw=true)
+
+[Source Code](https://github.com/johnthesundberg/portfolioprogramming/tree/gh-pages/src/WriteMeAMelody)
