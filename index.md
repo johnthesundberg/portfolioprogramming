@@ -31,3 +31,6 @@ OOP writes a simple melody with a random selection of notes using python
 ![Calculator](https://github.com/johnthesundberg/portfolioprogramming/blob/gh-pages/images/Melody2.png?raw=true)
 
 [Source Code](https://github.com/johnthesundberg/portfolioprogramming/tree/gh-pages/src/WriteMeAMelody)
+
+### Python Casino Game
+OOP a variety of Casino games such as Blackjack and Slots
